@@ -54,11 +54,11 @@ def project
                   :learning_and_progress => {}
                 },
     :group4 => {  :project_name    => 'Walk It Off',
-                  :members         => [''],
+                  :members         => ['Bryana Knight, George Hudson, Brian Winterling, Nikhil Taneja'],
                   :repo_url        => 'https://github.com/Egogre/project-x',
                   :tracker_url     => 'https://www.pivotaltracker.com/s/projects/1002332',
                   :staging_url     => '',
-                  :production_url  => '',
+                  :production_url  => 'http://walkitoff.herokuapp.com/',
                   :vps_owner_email => '',
                   :client_satisfaction   => {
                   },
